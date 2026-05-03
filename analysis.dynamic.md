@@ -150,6 +150,10 @@ See also:
 - Acceleration of memory accesses in dynamic binary translation
 	- 2018 PhD Dissertation; Antoine Faravelon
 	- https://tel.archives-ouvertes.fr/tel-02004524/
+- CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator
+	- International European Conference on Parallel and Distributed Computing (Euro-Par) 2022
+	- Wei Li, Xiaohui Luo, Yiran Zhang, Qingkai Meng, Fengyuan Ren
+	- https://doi.org/10.1007/978-3-031-12597-3_1
 - Cross-ISA Machine Emulation for Multicores
 	- Code Generation and Optimization (CGO) 2017
 	- Emilio G. Cota, Paolo Bonzini, Alex Bennée, Luca P. Carloni
